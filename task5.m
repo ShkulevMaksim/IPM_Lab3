@@ -1,4 +1,4 @@
-color_id = input('Введите цвет (r/g/b): ',"s");
+color_id = input('Input color (r/g/b): ',"s");
 
 img = imread("image.jpg");
     subplot(131)
