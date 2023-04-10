@@ -10,7 +10,7 @@ grayImg = rgb2gray(img);
     imshow(grayImg)
     title("Grayscale image")
 
-> Вот это даа как продуманно
+%Вот это даа как продуманно
 
 
 subplot(133)
@@ -18,7 +18,7 @@ coloredImg = ColorImage(grayImg,color_id);
 imshow(coloredImg)
 title("Colred image")
 
-> ОЧЕНЬ КЛАССНО, СПАСИБО МАКС!
+%ОЧЕНЬ КЛАССНО, СПАСИБО МАКС!
 
 function img1 = ColorImage(image,color)
     [h,w,z] = size(image);
@@ -52,4 +52,4 @@ function img1 = ColorImage(image,color)
     end
 end
 
->МАКСИМ пока!
+%МАКСИМ пока!
