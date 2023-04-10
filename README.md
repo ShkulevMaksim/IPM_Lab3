@@ -1,9 +1,9 @@
 # Управление информационными проектами
 ## Лабораторная работа 3 
 Выполнили студенты группы АТ-04
-* [Шкулев М.А.](https://vk.com/kkkulekkk)
-* [Кусяк М.Д.](https://vk.com/dizes1337)
-* [Панфилов М.А.](https://vk.com/id564299982)
+* [Фатьянов П.И.](https://vk.com/siirr)
+* [Юрлова Ю.Е.](https://vk.com/y.yurlova)
+* [Рютин И.А.](https://vk.com/id264961334)
 
 <a href="https://flutter.dev/">
   <h1 align="center">
