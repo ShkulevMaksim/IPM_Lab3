@@ -8,8 +8,8 @@
 <a href="https://flutter.dev/">
   <h1 align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/ib9ilwq.jpg">
-      <img alt="Image" src="https://i.imgur.com/ib9ilwq.jpg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/91/04/9104bac6716aa6f3896cffd8e57b2e91.jpg">
+      <img alt="Image" src="https://pic.rutubelist.ru/video/91/04/9104bac6716aa6f3896cffd8e57b2e91.jpg">
     </picture>
   </h1>
 </a>
