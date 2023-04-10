@@ -1,15 +1,15 @@
 # Управление информационными проектами
 ## Лабораторная работа 3 
 Выполнили студенты группы АТ-04
-* [Фатьянов П.И.](https://vk.com/siirr)
-* [Юрлова Ю.Е.](https://vk.com/y.yurlova)
-* [Рютин И.А.](https://vk.com/id264961334)
+* [Шкулев М.А.](https://vk.com/kkkulekkk)
+* [Кусяк М.Д.](https://vk.com/dizes1337)
+* [Панфилов М.А.](https://vk.com/id264961334)
 
 <a href="https://flutter.dev/">
   <h1 align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://pic.rutubelist.ru/video/91/04/9104bac6716aa6f3896cffd8e57b2e91.jpg">
-      <img alt="Image" src="https://pic.rutubelist.ru/video/91/04/9104bac6716aa6f3896cffd8e57b2e91.jpg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/ib9ilwq.jpg">
+      <img alt="Image" src="https://i.imgur.com/ib9ilwq.jpg">
     </picture>
   </h1>
 </a>
