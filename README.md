@@ -6,7 +6,7 @@
   <h1 align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/ib9ilwq.jpg">
-
+      <img alt="Image" src="https://i.imgur.com/ib9ilwq.jpg">
     </picture>
   </h1>
 </a>
